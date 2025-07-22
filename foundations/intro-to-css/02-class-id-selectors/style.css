@@ -1,0 +1,19 @@
+.the-odd-ones {
+    background-color: rgba(255, 69, 69, 0.788);
+    font-family: Verdana, 'DejaVu Snas', sans-serif;
+}
+
+#number-two {
+    color: hsl(240, 100%, 50%);
+    font-size: 32px;
+}
+
+.number-three {
+    font-size: 24px;
+}
+
+#number-four {
+    background-color: rgba(71, 194, 71, 0.582);
+    font-size: 24px;
+    font-weight: 900;
+}
